@@ -1,2 +1,5 @@
 # hello-world
-Prueba 1
+
+Hello! 
+
+im just trying to learn about a few things :)
